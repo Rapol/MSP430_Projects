@@ -9,16 +9,16 @@ Additional information in the asm files.
 
 2)Program is used for multiplying two signed numbers from -32768 to 32767
 
-3)This program configures the pins in port one as input or output.
+3-1)This program configures the pins in port one as input or output.
 
-4)Makes both LEDS flash alternative and P1.5 will have the same voltage response P1.0
+3-3)Makes both LEDS flash alternative and P1.5 will have the same voltage response P1.0
 
-5)This program will make both LEDs alternate for 0.5s it will
+3-7)This program will make both LEDs alternate for 0.5s it will
 
-6)Make both LEDS flash alternative and P1.5 will have the same voltage response as P1.0. The frequency of the LEDs is set to 30Hz.
+3-8)Make both LEDS flash alternative and P1.5 will have the same voltage response as P1.0. The frequency of the LEDs is set to 30Hz.
 
-7) This program will make both LEDs flash simultaneously at aproximate 2Hz. Cliking the P1.3 will change the frequency
+4) This program will make both LEDs flash simultaneously at aproximate 2Hz. Cliking the P1.3 will change the frequency
 
-8)This program will use the memory RAM as display.
+5)This program will use the memory RAM as display.
 
-9)This program will make the red LED flash for 0.30s.
+7)This program will make the red LED flash for 0.30s.
